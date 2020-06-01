@@ -1,0 +1,18 @@
+.Word {
+  padding-bottom: 10rem;
+}
+
+.Word h3 .content {
+  font-size: 2rem;
+}
+
+.Word .divider {
+  margin-bottom: -1rem;
+  font-size: 0.8rem;
+  color: #999;
+}
+
+.Word .Word__more {
+  font-size: 0.8rem;
+  color: #999;
+}

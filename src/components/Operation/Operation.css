@@ -1,0 +1,13 @@
+.Operation {
+  margin-bottom: -0.3rem;
+  text-align: right;
+}
+
+.Operation .ui.list .item {
+  font-size: 0.8rem;
+  color: #999;
+}
+
+.Operation .ui.list .item>i.icon {
+  margin: 0 0.2rem 0 0;
+}

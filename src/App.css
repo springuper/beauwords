@@ -1,0 +1,10 @@
+.App {
+}
+
+.App .ui.header.App__header {
+  margin: 2rem 0;
+}
+
+.App .App-link {
+  color: #61dafb;
+}
